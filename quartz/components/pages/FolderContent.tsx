@@ -92,7 +92,9 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
-      sort: options.sort,
+      sort: ((f1: QuartzPluginData, f2: QuartzPluginData) => {
+        return f1.filePath?.localeCompare(f2.filePath ?? "")
+      }),
       allFiles: allPagesInFolder,
     }
 
