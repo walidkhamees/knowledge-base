@@ -9,9 +9,9 @@ This is a knowledge base for the RemoteCoders bootcamp cohort 9.
 
 You can contribute by adding your notes, resources, or any other relevant information that can help your fellow bootcampers.
 
-I started this knowledge base to help us all share our learning experiences and resources. 
+I started this knowledge base to help us all share our learning experiences and resources.
 
-This knowledge base is built using obsidian markdown. 
+This knowledge base is built using obsidian markdown.
 
 here is a brief introduction to obsidian markdown syntax:
 
@@ -26,7 +26,7 @@ here is a brief introduction to obsidian markdown syntax:
 - **Horizontal Rule**: Use `---` for a horizontal rule.
 - **Links to other notes**: Use `[[note name]]` to link to other notes in the knowledge base.
 
-If you want to create a new note, copy the template below and paste it into a new markdown file in the `content` directory.  
+If you want to create a new note, copy the template below and paste it into a new markdown file in the `content` directory.
 Also, please create a new file in the `content/People` directory with your name as the filename so people can get to know you better.
 
 
@@ -43,11 +43,12 @@ You can also add images, links, and other resources to your note.
 ```
 
 
-1. **Fork the repository**: If you want to contribute, please fork the repository and make your changes. 
+1. **Fork the repository**: If you want to contribute, please fork the repository and make your changes.
     - [GitHub Repository](https://github.com/your-username/your-repo)
-2. **Make your changes**: You can add your notes, resources, or any other relevant information. 
+2. **Make your changes**: You can add your notes, resources, or any other relevant information.
     -  If your notes are a part of series of notes, create directory with the series name and add your notes in that directory.
     -  If you want to add images, you can add them to the `content/assets` directory and link to them in your notes.
     - If you feel confused, please reach out for help.
 3. **Create a pull request**: Once you have made your changes, create a pull request to the main repository.
 4. **Review and merge**: The maintainers will review your pull request and merge it if everything looks good.
+
